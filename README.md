@@ -5,8 +5,6 @@
   />
 </h1>
 
-### Olá, eu sou o **Gabriel Fontenele da Silva**! 👋
-
 Tenho 29 anos e sou de São Paulo, capital. Sou **formado em Design Gráfico** e tive a oportunidade de migrar para a área de desenvolvimento de software. Decidi me aprofundar e, por isso, comecei a **Análise e Desenvolvimento de Sistemas pela UNICV**. Atualmente, possuo dois anos de experiência em **desenvolvimento iOS nativo** com **Swift**.
 
 ---
